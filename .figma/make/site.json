@@ -1,0 +1,10 @@
+{
+  "description": "Explore human anatomy through an immersive web platform featuring 3D simulations, advanced imaging modes, and procedural pathology generation for medical education.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
